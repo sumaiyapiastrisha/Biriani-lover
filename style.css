@@ -1,0 +1,32 @@
+
+body{
+
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.welcome{
+    background-image: url(22.jpg);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    weight:100%
+    
+    
+
+  }
+  .heading{
+    padding: 200px;
+    padding-left: 200px  
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+.name{
+
+    color: rgb(245, 42, 7);
+    font-size: 60px;
+}
+ 
