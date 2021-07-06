@@ -11,7 +11,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
-    weight:100%
+    width:100%
   }
   .half-width{
       width: 50%;
@@ -131,7 +131,7 @@ margin-top: 150px;
  .text7{
      color: gray;
      padding-top: 30px;
-     padding-bottom: 50px;
+   
      padding-left: 40%;
      font-size: 40px;
  }
@@ -139,5 +139,10 @@ margin-top: 150px;
      color: #ff7b00;
  }
  .text8{
-     
+     color: rgb(120, 120, 153);
+     padding-left: 35%;
+     padding-bottom:100px;
+ }
+ .text9{
+     font-size: 85px;
  }
