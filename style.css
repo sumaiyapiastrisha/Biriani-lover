@@ -13,6 +13,9 @@ body{
     height: 100%;
     weight:100%
   }
+  .half-width{
+      width: 50%;
+  }
   .heading{
     padding: 200px;
     padding-left: 200px  
@@ -33,9 +36,36 @@ body{
     
 }
 .text{
-padding-left: 100px;
-padding-right: 100px;
+margin-left: 100px;
+margin-right: 100px;
+margin-top: 150px;
    
+}
+.description{
+    padding-bottom: 50px;
+ }
+.size{
+    font-size: 70px;
+}
+.stay{
+    color: rgb(255, 102, 0);
+}
+.background-image{
+
+    background-image: url(7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.image2{
+    width: 50%;
+    margin-left: 200px;
+    margin-top: 90px;
+    
+}
+.text3{
+    margin-top: 90px;
 }
 .image1{
     height: 250px;
@@ -57,15 +87,57 @@ padding-right: 100px;
     padding-left: 300px;
 }
 .item{
-    box-shadow: 10px 10px 40px gray;
+    box-shadow: 10px 10px 20px rgb(187, 186, 186);
     margin-left:2%;
    margin-right:2%;
    padding: 20px 20px 20px 20px;
-   border-radius: 20px;
+   border-radius: 30px;
 }
 .section3{
     margin-right:5%;
     margin-left: 5%;
 }
+.button{
+    font-size: 20px;
+    padding: 20px 60px;
 
- 
+    color: white;
+    text-decoration:none ;
+    background-image: linear-gradient(rgb(247, 58, 11),orange);
+    
+    border-radius: 50px;
+}
+.text4{
+    box-shadow: 10px 10px 20px rgb(177, 175, 175);
+    margin: 100px 100px 100px 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    border-radius: 30px;
+    
+
+}
+.text5{
+    padding-left: 230px;
+    font-size: 45px;
+}
+.text6{
+    
+    padding-left: 230px;
+}
+.section5{
+   background-color: black;
+}
+
+ .text7{
+     color: gray;
+     padding-top: 30px;
+     padding-bottom: 50px;
+     padding-left: 40%;
+     font-size: 40px;
+ }
+ .end{
+     color: #ff7b00;
+ }
+ .text8{
+     
+ }
